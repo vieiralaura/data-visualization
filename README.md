@@ -6,10 +6,3 @@ This repo contains my projects related to data visualization.
 - 💰 [Finance](https://github.com/vieiralaura/data-visualization) Built a dashboard for finance.
 
 
-
-## 📚 Table of Contents
-- [Data Visualization](#data-Visualization)
-- [SQL](#sql)
-- [Python](#python)
-
-*** 
